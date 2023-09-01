@@ -1,1 +1,3 @@
 animals
+zebara
+traffic signals
